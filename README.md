@@ -1,1 +1,1 @@
-# my-discovery-server
+# my-discovery-server-deployment
